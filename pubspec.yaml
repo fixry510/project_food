@@ -37,9 +37,22 @@ dependencies:
   get: ^4.6.5
   firebase_core: ^2.4.1
   cloud_firestore: ^4.3.1
+  firebase_storage: ^11.0.10
   google_fonts: ^3.0.1
   phlox_animations: ^2.1.1
   animate_gradient: ^0.0.2
+  auto_size_text: ^3.0.0
+  image_fade: ^0.6.2
+  draggable_widget: ^2.0.0
+  gap: ^2.0.1
+  dio: ^4.0.6
+  path_provider: ^2.0.11
+  path: ^1.8.0
+  intl: ^0.18.0
+  mask_text_input_formatter: ^2.4.0
+  image_picker: ^0.8.6
+  getxbottombar: ^0.0.1
+  provider: ^6.0.5
 
 dev_dependencies:
   flutter_test:
